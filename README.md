@@ -8,3 +8,6 @@ This repository has been created to provide an open source tool to everyone who 
      There are some variables and values that must be changed by the user in order to execute correclty the procedure.
      There is also the default option to sent a creator the results via email, when executing the script. This has the only purpouse to recollect more data and extend the study. To desactivate this option it is
      only required to comment the corresponding command. All instructions are included on the script.
+
+  3. Videos used to do the experiments on my study.
+
