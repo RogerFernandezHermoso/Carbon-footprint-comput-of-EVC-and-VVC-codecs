@@ -4,10 +4,6 @@ This repository has been created to provide an open source tool to everyone who 
 **Provided material:**
   1. Study of EVC and VVC encoders and compute of their carbon footprint in local environment: Document of my undergraduate thesis project of Audiovisual systems Engineer degree in Universitat Pompeu Fabra,              Barcelona, Spain. Includes a complete description of how to compute the Carbon footprint on a encoding video procedure.
 
-  2. Executable script: This script has the required commands to be executated and encode a video with the selected video encoder. There is a list of requirements that must be done before executing the script.
-     There are some variables and values that must be changed by the user in order to execute correclty the procedure.
-     There is also the default option to sent a creator the results via email, when executing the script. This has the only purpouse to recollect more data and extend the study. To desactivate this option it is
-     only required to comment the corresponding command. All instructions are included on the script.
+  2. Executable script: This script has the required commands to be executated and encode a video with 4k resolution and EVC encoder. The lines to encode with VVC encoder are commented. The user must change the values as it is described on the 1. document.
 
-  3. Videos used to do the experiments on my study.
 
